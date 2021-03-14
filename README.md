@@ -15,8 +15,13 @@ komponen tampillan aplikasi menjadi fleksibel dan dapat digunakan kembali ( reus
 ### Screenshot
 
 > Pengisian Nama / Input (Fragment 1) (Main Activity (App & Tab bar))
-![pengisian nama_Fragment](https://user-images.githubusercontent.com/54633534/111056327-c211f780-84b0-11eb-8d75-18986a53c16e.jpg)
-> Sesudah Pengisian Nama (Fragment EditText deactived) (Fragment 1) (Main Activity (App & Tab bar))
-![sesudah diisi](https://user-images.githubusercontent.com/54633534/111056326-c0e0ca80-84b0-11eb-8515-9b5bcc5cc077.jpg)
+> 
+>![pengisian nama_Fragment](https://user-images.githubusercontent.com/54633534/111056327-c211f780-84b0-11eb-8d75-18986a53c16e.jpg)
+
+> Sesudah Pengisian Nama (Fragment EditText Keyboard deactived) (Fragment 1) (Main Activity (App & Tab bar))
+> 
+>![sesudah diisi](https://user-images.githubusercontent.com/54633534/111056326-c0e0ca80-84b0-11eb-8515-9b5bcc5cc077.jpg)
+
 > Hasil Fragment / Output (Fragment 2) (Main Activity (App & Tab bar))
-![hasil_Fragment](https://user-images.githubusercontent.com/54633534/111056324-bf170700-84b0-11eb-891b-4a5c30aa0148.jpg)
+> 
+>![hasil_Fragment](https://user-images.githubusercontent.com/54633534/111056324-bf170700-84b0-11eb-891b-4a5c30aa0148.jpg)
