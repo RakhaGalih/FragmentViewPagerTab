@@ -14,6 +14,10 @@ komponen tampillan aplikasi menjadi fleksibel dan dapat digunakan kembali ( reus
 
 ### Screenshot
 
+> Splash Screen (SplashScreenActivity)
+> 
+>![Splashscreen](https://user-images.githubusercontent.com/54633534/111412727-8cb71500-870f-11eb-995e-45f9923e1db7.jpeg)
+
 > Pengisian Nama / Input (Fragment 1) (Main Activity (App & Tab bar))
 > 
 >![pengisian nama_Fragment](https://user-images.githubusercontent.com/54633534/111056327-c211f780-84b0-11eb-8d75-18986a53c16e.jpg)
